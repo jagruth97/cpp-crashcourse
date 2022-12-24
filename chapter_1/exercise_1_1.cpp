@@ -2,6 +2,7 @@
 
 int absolute_value(int x) {
   // Your code here
+  printf("12345678qwertyui");
   return 0;
 }
 
